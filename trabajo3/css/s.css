@@ -1,0 +1,178 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: rgb(88, 88, 88);
+}
+.contenedor{
+    position: relative;
+    margin: auto;
+    width: 1400px;
+    height: 800px;
+    background-color: #ffffff;
+    top: 140px;
+}
+.contenido{
+    position: relative;
+    height: 100px;
+    width: 1400px;
+    top : 43px;
+    left: 43px;
+}
+.contenido .p1{
+    font-size: 30px;
+    position: relative;
+    left: 700px;
+    bottom: 86;
+    color: black;
+    top: -73px;
+}
+.contenido .p2{
+    font-size: 30px;
+    position: relative;
+    left: 972px;
+    bottom: 86;
+    color: black;
+    top: -143px;
+}
+.contenido .p3{
+    font-size: 30px;
+    position: relative;
+    left: 700px;
+    bottom: 86;
+    color: black;
+    top: -196px;
+}
+.contenido .busqueda{
+    font-size: 30px;
+    position: relative;
+    left: 1000px;
+    bottom: 86;
+    color: black;
+    top: -140px;
+}
+.contenido .carrito{
+    font-size: 30px;
+    position: relative;
+    left: 1050px;
+    bottom: 86;
+    color: black;
+    top: -140px;
+}
+.tarjeta{
+    position: relative;
+    left: -50px;
+}
+.contenido2 .p1{
+    font-size: 30px;
+    position: relative;
+    bottom: 86;
+    color: black;
+    top: -73px;
+}
+.contenido2 .p2{
+    font-size: 30px;
+    position: relative;
+    bottom: 86;
+    color: black;
+    top: -73px;
+}
+.contenido2 .p3{
+    font-size: 30px;
+    position: relative;
+    bottom: 86;
+    color: rgb(0, 0, 0);
+    top: -73px;
+}
+.contenido2 .p4{
+    font-size: 30px;
+    position: relative;
+    bottom: 86;
+    border: 3px solid  rgb(87, 87, 87);
+    display: inline-block;
+    color: rgb(87, 87, 87);
+    top: -73px;
+}
+.contenido3 .p1{
+    font-size: 30px;
+    position: relative;
+    left: 1310px;
+    bottom: 86;
+    color: black;
+    top: -868px;
+}
+.contenido3 .p2{
+    font-size: 30px;
+    position: relative;
+    left: 1235px;
+    bottom: 86;
+    color: black;
+    top: -1630px;
+}
+.contenido3 .p3{
+    font-size: 30px;
+    position: relative;
+    left: 1315px;
+    bottom: 86;
+    color: #ffffff;
+    top: -1550px;
+}
+.contenido3 .p4{
+    font-size: 30px;
+    position: relative;
+    left: 1345px;
+    bottom: 86;
+    color: #646363;
+    top: -1450px;
+}
+.contenido3 .p5{
+    font-size: 30px;
+    position: relative;
+    left: 1345px;
+    bottom: 86;
+    color: #ffffff;
+    top: -1450px;
+}
+.contenido3 .p6{
+    font-size: 30px;
+    position: relative;
+    left: 1345px;
+    bottom: 86;
+    color: #646363;
+    top: -1450px;
+}
+.contenido3 .p7{
+    font-size: 30px;
+    position: relative;
+    left: 1345px;
+    bottom: 86;
+    color: #ffffff;
+    top: -1200px;
+}
+
+.contenido4 .p3{
+    font-size: 30px;
+    position: relative;
+    left: 1130px;
+    bottom: 86;
+    color: black;
+    top: -1296px;
+}
+.contenido4 .p4{
+    font-size: 30px;
+    position: relative;
+    left: 970px;
+    width: 10%;
+    bottom: 86;
+    color: black;
+    top: -1366px;
+    z-index: 1;
+}
+.contenido4 .p5{
+    font-size: 30px;
+    position: relative;
+    left: 1150px;
+    bottom: 86;
+    color: black;
+    top: -1396px;
+}
